@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PascaleFuzet",
-    "currentPage": "page8.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -132,7 +132,7 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "3",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
@@ -1033,21 +1033,6 @@
               "font-size": "25px"
             }
           }
-        },
-        {
-          "_params": {
-            "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
-            }
-          },
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map2",
-          "_anchor": "map2-1m"
         }
       ]
     },
