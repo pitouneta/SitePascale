@@ -15,6 +15,10 @@
   font-size: 23px;
   font-family: 'Alegreya Sans', sans-serif;
 }
+#social-buttons1-1q .mbr-section-title {
+  text-align: left;
+  font-size: 30px;
+}
 
 
 
@@ -77,8 +81,6 @@
 
 
 
-
-
 #menu-r .navbar-toggler {
   color: #000;
 }
@@ -103,16 +105,6 @@
   font-size: 25px;
 }
 #header3-t B {
-  font-family: 'Alegreya Sans', sans-serif;
-}
-#header3-u H3 {
-  font-size: 25px;
-  font-family: 'Alegreya Sans', sans-serif;
-}
-#header3-u SMALL {
-  font-size: 16px;
-}
-#header3-u B {
   font-family: 'Alegreya Sans', sans-serif;
 }
 #header3-v H3 {
@@ -195,6 +187,7 @@
 }
 #header3-1a H3 {
   font-family: 'Alegreya Sans', sans-serif;
+  font-size: 25px;
 }
 
 
